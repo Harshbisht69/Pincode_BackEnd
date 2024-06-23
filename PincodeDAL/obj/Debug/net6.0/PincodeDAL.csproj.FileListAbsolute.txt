@@ -1,0 +1,14 @@
+C:\Users\harsh\source\repos\PincodeDAL\bin\Debug\net6.0\PincodeDAL.deps.json
+C:\Users\harsh\source\repos\PincodeDAL\bin\Debug\net6.0\PincodeDAL.runtimeconfig.json
+C:\Users\harsh\source\repos\PincodeDAL\bin\Debug\net6.0\PincodeDAL.dll
+C:\Users\harsh\source\repos\PincodeDAL\bin\Debug\net6.0\PincodeDAL.pdb
+C:\Users\harsh\source\repos\PincodeDAL\obj\Debug\net6.0\PincodeDAL.csproj.AssemblyReference.cache
+C:\Users\harsh\source\repos\PincodeDAL\obj\Debug\net6.0\PincodeDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\source\repos\PincodeDAL\obj\Debug\net6.0\PincodeDAL.AssemblyInfoInputs.cache
+C:\Users\harsh\source\repos\PincodeDAL\obj\Debug\net6.0\PincodeDAL.AssemblyInfo.cs
+C:\Users\harsh\source\repos\PincodeDAL\obj\Debug\net6.0\PincodeDAL.csproj.CoreCompileInputs.cache
+C:\Users\harsh\source\repos\PincodeDAL\obj\Debug\net6.0\PincodeDAL.dll
+C:\Users\harsh\source\repos\PincodeDAL\obj\Debug\net6.0\refint\PincodeDAL.dll
+C:\Users\harsh\source\repos\PincodeDAL\obj\Debug\net6.0\PincodeDAL.pdb
+C:\Users\harsh\source\repos\PincodeDAL\obj\Debug\net6.0\PincodeDAL.genruntimeconfig.cache
+C:\Users\harsh\source\repos\PincodeDAL\obj\Debug\net6.0\ref\PincodeDAL.dll

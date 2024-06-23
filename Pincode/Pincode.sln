@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pincode", "Pincode.csproj", "{E63A093A-C0D1-4CAC-9854-F7962AE03B69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PincodeBL", "..\PincodeBL\PincodeBL.csproj", "{83A9608F-C8D6-4C0B-8DF7-D5C2A6BD1002}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PincodeDAL", "..\PincodeDAL\PincodeDAL.csproj", "{A6D97F15-2620-470A-B70A-40383E39083A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E63A093A-C0D1-4CAC-9854-F7962AE03B69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E63A093A-C0D1-4CAC-9854-F7962AE03B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E63A093A-C0D1-4CAC-9854-F7962AE03B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E63A093A-C0D1-4CAC-9854-F7962AE03B69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83A9608F-C8D6-4C0B-8DF7-D5C2A6BD1002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83A9608F-C8D6-4C0B-8DF7-D5C2A6BD1002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83A9608F-C8D6-4C0B-8DF7-D5C2A6BD1002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83A9608F-C8D6-4C0B-8DF7-D5C2A6BD1002}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6D97F15-2620-470A-B70A-40383E39083A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6D97F15-2620-470A-B70A-40383E39083A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6D97F15-2620-470A-B70A-40383E39083A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6D97F15-2620-470A-B70A-40383E39083A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72632E6B-97AE-4CEB-B289-44F6259A2844}
+	EndGlobalSection
+EndGlobal
